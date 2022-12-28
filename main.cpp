@@ -1,4 +1,3 @@
-
 // Öğrenciler: Sinan Kocatürk 410452, Berk Çağrı Laçin 413518, Enes Ceviz 402498
 // Ders Adı: Nesne Yönelimli Programlama
 // Grup: Grup-18
